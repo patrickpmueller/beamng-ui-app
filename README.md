@@ -8,13 +8,13 @@ aimed @self
 
 ## File structure
 appname/
-  ui/
-    modules/
-      apps/
-        appname/
-          app.js
-          app.json
-          app.png
+└── ui/
+    └── modules/
+        └── apps/
+            └── appname/
+                ├── app.js
+                ├── app.json
+                └── app.png
 
 ## Activate UI App
 https://documentation.beamng.com/getting_started/user_interface/
