@@ -1,5 +1,5 @@
 # beamng-ui-app
-aimed @self
+**aimed @self**
 
 ## Doc links
  - https://wiki.beamng.com/Streams.html#wheelInfo
