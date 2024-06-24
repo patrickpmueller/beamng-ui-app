@@ -1,0 +1,17 @@
+{
+  "domElement": "<forced-induction-animated></forced-induction-animated>",
+  "name": "Forced Induction animated",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Animated!",
+  "css": {
+    "bottom": "5px",
+    "height": "300px",
+    "width": "300px",
+    "right": "5px"
+  },
+  "author": "beamng.ui Team, Snaklilopin",
+  "version": "0.3.3",
+  "directive": "forcedInductionAnimated"
+}
